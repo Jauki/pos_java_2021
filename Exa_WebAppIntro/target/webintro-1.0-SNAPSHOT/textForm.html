@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <script src="testForm.js" ></script>
+</head>
+<body>
+<h1>Fill Out Form: </h1>
+<form method="post" action="/hello-servlet" onsubmit="return onValidate(this);">
+    <table>
+        <tr>
+            <td>Firstname</td>
+            <td><input type="text" name="firstname" placeholder="firstname" onmouseenter="fill(this, 'David')"></td>
+            <td> <div id="errFirstname" style="color: crimson; font-style: italic"> </div></td>
+        </tr>
+        <tr>
+            <td>Lastname</td>
+            <td><input type="text" name="lastname" placeholder="lastname" onmouseenter="fill(this, 'Alaba')"></td>
+            <td id="errLastname" style="color: crimson; font-style: italic"></td>
+        </tr>
+        <tr>
+            <td>Age: </td>
+            <td><input type="text" name="age" placeholder="age" onmouseenter="fill(this, '28')"></td>
+            <td id="errAge" style="color: crimson; font-style: italic"></td>
+        </tr>
+    </table>
+    <br>
+    <input type="submit" name="enter"></input>
+</form>
+<input type="button" value="fetch Request" onclick="fetchTable();" />
+<div id="tableContent"></div>
+<input type="button" value="requst servler" onclick="fetchServlet()" />
+<div id="textContent">
+</div>
+
+
+</body>
+</html>
