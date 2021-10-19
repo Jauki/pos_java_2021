@@ -2,6 +2,10 @@
 
 ##### Julian Jauk
 
-## [[Streams]]
+## [[Java Streams]]
 
-## Java Servlet
+## [[Java Servlet]]
+
+## HTTP (Hyper Text Transport Protocol)
+- [[GET]]
+- [[POST]]

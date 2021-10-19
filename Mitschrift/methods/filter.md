@@ -1,5 +1,5 @@
 # Filter
-**[[Streams]] <- to get back**
+**[[Java Streams]] <- to get back**
 Filter within a stream, bascially there are 2 ways to do it:
 1. with `filter()` to get a **copy** of the **origin** List, needs `.collect(Collectors.toList())`
 2. with `removeIf()` returns the **origin List** and **deletes** the Objects if the Condition is **true**

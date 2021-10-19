@@ -1,5 +1,5 @@
 # Sort
-**[[Streams]] <- to get back**
+**[[Java Streams]] <- to get back**
 Sort within a stream, bascially there are 3 ways to do it:
 1. with `sorted()` can only compare **One Condition**, needs `.collect(Collectors.toList())`
 2. with `sort().thenComparing` can have infinity Comparators**(man kann immer `.thenComparing machen`!)**, 

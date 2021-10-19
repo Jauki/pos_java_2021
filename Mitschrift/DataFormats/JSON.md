@@ -1,5 +1,5 @@
 # JSON
-**[[Streams]] <- to get back**
+**[[Java Streams]] <- to get back**
 First you need to get the JSON file by [[readFile]]
 To read a JSON **obj** -> you have to make #ObjectMapper  `ObjectMapper mapper = new ObjectMapper();`
 

@@ -1,5 +1,5 @@
 # ReadFile
-**[[Streams]] <- to get back**
+**[[Java Streams]] <- to get back**
 How to read a file -> basically there are 2 ways
 1. `System.getProperty` takes the path in the **not** compiled version of the Project
 2. `getServletContext()` takes the file of the compilied version which is in  `/target/APP-NAME-SNAPSHOT` 
