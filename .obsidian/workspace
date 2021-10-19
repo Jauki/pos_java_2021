@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mitschrift/methods/filter.md",
+            "file": "Mitschrift/DataFormats/XML.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/Java Servlet.md",
+                "file": "Mitschrift/DataFormats/XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "427e263c8438dcb5",
+  "active": "ff9b75b7f1f852b1",
   "lastOpenFiles": [
-    "Mitschrift/Java Servlet.md",
-    "Mitschrift/Java Streams.md",
-    "Mitschrift/Streams.md",
-    "Mitschrift/main.md",
-    "Mitschrift/methods/filter.md",
-    "Mitschrift/methods/readFile.md",
-    "Mitschrift/methods/sort.md",
     "Mitschrift/DataFormats/XML.md",
     "Mitschrift/DataFormats/JSON.md",
-    "Mitschrift/XML.md"
+    "Mitschrift/HTTP/GET.md",
+    "Mitschrift/HTTP/POST.md",
+    "Mitschrift/JSON.md",
+    "Mitschrift/main.md",
+    "Mitschrift/Java Streams.md",
+    "Mitschrift/Java Servlet.md",
+    "Mitschrift/methods/readFile.md",
+    "Mitschrift/methods/sort.md"
   ]
 }

@@ -1,10 +1,5 @@
 # Sort
-<<<<<<< HEAD
 **[[Java Streams]] <- to get back**
-=======
-**[[Streams]] <- to get back**
->>>>>>> f9544fd698bb8673f8b634300caebfc0f3e9692f
-Sort within a stream, bascially there are 3 ways to do it:
 1. with `sorted()` can only compare **One Condition**, needs `.collect(Collectors.toList())`
 2. with `sort().thenComparing` can have infinity Comparators**(man kann immer `.thenComparing machen`!)**, 
 3. with `Comparator.naturalOrder()`, you have to implement an Comparator interface, **needs implementation**

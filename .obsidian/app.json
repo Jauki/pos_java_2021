@@ -1,14 +1,3 @@
 {
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-<<<<<<< HEAD
-  },
-  "promptDelete": false,
-  "alwaysUpdateLinks": true
-=======
-  }
->>>>>>> f9544fd698bb8673f8b634300caebfc0f3e9692f
+  "promptDelete": false
 }
