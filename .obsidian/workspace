@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mitschrift/DataFormats/XML.md",
+            "file": "Mitschrift/methods/filter.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/DataFormats/XML.md",
+                "file": "Mitschrift/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff9b75b7f1f852b1",
+  "active": "427e263c8438dcb5",
   "lastOpenFiles": [
+    "Mitschrift/main.md",
+    "Mitschrift/methods/filter.md",
+    "Mitschrift/methods/readFile.md",
+    "Mitschrift/methods/sort.md",
     "Mitschrift/DataFormats/XML.md",
     "Mitschrift/DataFormats/JSON.md",
-    "Mitschrift/main.md",
     "Mitschrift/Streams.md",
     "Mitschrift/Java Servlet.md",
     "Mitschrift/XML.md",
-    "Mitschrift/JSON.md",
-    "DataFormats.md",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md"
+    "Mitschrift/JSON.md"
   ]
 }

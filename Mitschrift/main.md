@@ -9,3 +9,6 @@
 ## HTTP (Hyper Text Transport Protocol)
 - [[GET]]
 - [[POST]]
+## [[Streams]]
+
+## Java Servlet

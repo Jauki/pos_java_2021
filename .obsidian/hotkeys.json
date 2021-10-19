@@ -25,6 +25,7 @@
       ],
       "key": "C"
     }
+<<<<<<< HEAD
   ],
   "app:delete-file": [
     {
@@ -33,5 +34,7 @@
       ],
       "key": "Backspace"
     }
+=======
+>>>>>>> f9544fd698bb8673f8b634300caebfc0f3e9692f
   ]
 }
