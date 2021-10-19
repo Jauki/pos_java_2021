@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "523e17a0c2603043",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9b75b7f1f852b1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7f61c57ff180933",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a6051291fafa76e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "216fd46fde8799e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d19c7565f19894ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "318722609995fa66",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ef5010a1805e4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5e561ab515faf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff9b75b7f1f852b1",
+  "lastOpenFiles": [
+    "Mitschrift/methods/readFile.md",
+    "Mitschrift/methods/filter.md",
+    "Mitschrift/XML.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "Mitschrift/main.md",
+    "Mitschrift/JSON.md",
+    "Mitschrift/methods/JSON.md",
+    "Mitschrift/methods/sort.md",
+    "Mitschrift/Java Servlet.md"
+  ]
+}
