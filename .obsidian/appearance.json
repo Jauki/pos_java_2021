@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
   "theme": "moonstone",
-  "cssTheme": "Atom"
+  "cssTheme": "California Coast",
+  "translucency": true
 }

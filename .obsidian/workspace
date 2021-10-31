@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ff9b75b7f1f852b1",
+        "id": "af7535da3257bca2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Mitschrift/DataFormats/XML.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "427e263c8438dcb5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mitschrift/Java Servlet.md",
             "mode": "source"
           }
         }
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff9b75b7f1f852b1",
+  "active": "af7535da3257bca2",
   "lastOpenFiles": [
     "Mitschrift/DataFormats/XML.md",
+    "Mitschrift/methods/readFile.md",
+    "Mitschrift/methods/filter.md",
+    "JAXB.md",
     "Mitschrift/DataFormats/JSON.md",
-    "Mitschrift/HTTP/GET.md",
-    "Mitschrift/HTTP/POST.md",
-    "Mitschrift/JSON.md",
-    "Mitschrift/main.md",
     "Mitschrift/Java Streams.md",
     "Mitschrift/Java Servlet.md",
-    "Mitschrift/methods/readFile.md",
-    "Mitschrift/methods/sort.md"
+    "Mitschrift/HTTP/GET.md",
+    "Mitschrift/HTTP/POST.md",
+    "Mitschrift/JSON.md"
   ]
 }
