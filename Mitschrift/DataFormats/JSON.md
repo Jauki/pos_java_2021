@@ -38,3 +38,12 @@ Default console: **System.out**
 ```java
 mapper.writerWithDefaultPrettyPrinter().writeValue(OUTPUTSTREAM, OBJECTSLIST);
 ```
+
+
+## LocalDate
+
+#### Serialize
+From JAVA Obj -> JSON (Javascript) 
+
+#### Deserilze
+From JSON -> Java Obj
