@@ -6,11 +6,11 @@
 Tags are Case Sensitive!
 **Use Lombok ** `@Data`
 
-`@XmlAccessorType(XmlAccessType.FIELD)` -> on Class which reads the Object
-`@XmlRootElement` -> on the Root element
-`@XmlElement(name = "")` -> other name for element in the Object
-`@XmlAttribute` -> for attribute in Xml to be parsed to the Object
-`@XmlJavaTypeAdapter(LocalDateTimeAdapter.class)` -> Date Adapter
++ `@XmlAccessorType(XmlAccessType.FIELD)` -> on Class which reads the Object
++ `@XmlRootElement` -> on the Root element
++ `@XmlElement(name = "")` -> other name for element in the Object
++ `@XmlAttribute` -> for attribute in Xml to be parsed to the Object
++ `@XmlJavaTypeAdapter(LocalDateTimeAdapter.class)` -> Date Adapter
 
 ```java
 public class LocalDateTimeAdapter extends XmlAdapter<String, LocalDateTime> {  
@@ -32,11 +32,11 @@ public class LocalDateTimeAdapter extends XmlAdapter<String, LocalDateTime> {
 + returns List
 
 ## JSON
-**Use Lombok ** `@Data`
-`@JsonSerialize(using = LocalDateSerializer.class)` -> for converting to Date in java
++ **Use Lombok ** `@Data`
++ `@JsonSerialize(using = LocalDateSerializer.class)` -> for converting to Date in java
 
-`ObjectMapper mapper = new ObjectMapper();` -> maps any Object to JSON
-`jsonStr = mapper.writeValueAsString(filteredList);` -> send the String back (`out.println(jsonstr)`) 
++ `ObjectMapper mapper = new ObjectMapper();` -> maps any Object to JSON
++ `jsonStr = mapper.writeValueAsString(filteredList);` -> send the String back (`out.println(jsonstr)`) 
 
 ```java
 public class LocalDateSerializer extends StdSerializer<LocalDate> {  
