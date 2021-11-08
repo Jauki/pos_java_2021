@@ -4,6 +4,7 @@
 
 ## XML 
 Tags are Case Sensitive!
+**Use Lombok ** `@Data`
 
 `@XmlAccessorType(XmlAccessType.FIELD)` -> on Class which reads the Object
 `@XmlRootElement` -> on the Root element
@@ -31,7 +32,7 @@ public class LocalDateTimeAdapter extends XmlAdapter<String, LocalDateTime> {
 + returns List
 
 ## JSON
-
+**Use Lombok ** `@Data`
 `@JsonSerialize(using = LocalDateSerializer.class)` -> for converting to Date in java
 
 `ObjectMapper mapper = new ObjectMapper();` -> maps any Object to JSON

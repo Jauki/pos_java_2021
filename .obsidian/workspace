@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mitschrift/DataFormats/JSON.md",
+            "file": "Mitschrift/Test 9 Nov.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitschrift/DataFormats/JSON.md",
+                "file": "Mitschrift/Test 9 Nov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "af7535da3257bca2",
   "lastOpenFiles": [
+    "Mitschrift/Test 9 Nov.md",
     "Mitschrift/DataFormats/JSON.md",
     "Mitschrift/methods/readFile.md",
-    "Mitschrift/Test 9 Nov.md",
     "Mitschrift/DataFormats/XML.md",
     "Mitschrift/main.md",
     "README.md",
